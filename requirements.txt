@@ -15,7 +15,7 @@ numpy==1.13.3
 olefile==0.44
 Pillow==4.3.0
 progressbar2==3.34.3
-protobuf==3.4.0
+protobuf==3.15.0
 pydot-ng==1.0.0
 pyparsing==2.2.0
 python-dateutil==2.6.1
